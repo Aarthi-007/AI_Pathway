@@ -108,8 +108,3 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
-
-Developed by **Harish Patil**
-
-GitHub: https://github.com/HarishPatil20
